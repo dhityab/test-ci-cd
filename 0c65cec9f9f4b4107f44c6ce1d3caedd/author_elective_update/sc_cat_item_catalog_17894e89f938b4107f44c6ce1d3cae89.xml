@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Test CI/CD Process ">5b890a49f938b4107f44c6ce1d3cae60</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-15 18:53:53</sys_created_on>
+        <sys_id>17894e89f938b4107f44c6ce1d3cae89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test CI/CD Process </sys_name>
+        <sys_package display_value="Test GitHub" source="x_snc_test_github">0c65cec9f9f4b4107f44c6ce1d3caedd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test GitHub">0c65cec9f9f4b4107f44c6ce1d3caedd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_17894e89f938b4107f44c6ce1d3cae89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 18:53:53</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test GitHub">0c65cec9f9f4b4107f44c6ce1d3caedd</application>
+        <file_path/>
+        <instance_id>d315c0d11b647410637120622a4bcb1d</instance_id>
+        <instance_name>nowlearning-lpt0414015-dev-001</instance_name>
+        <name>sc_cat_item_catalog_17894e89f938b4107f44c6ce1d3cae89</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Test CI/CD Process ">5b890a49f938b4107f44c6ce1d3cae60</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-15 18:53:53</sys_created_on><sys_id>17894e89f938b4107f44c6ce1d3cae89</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Test CI/CD Process </sys_name><sys_package display_value="Test GitHub" source="x_snc_test_github">0c65cec9f9f4b4107f44c6ce1d3caedd</sys_package><sys_policy/><sys_scope display_value="Test GitHub">0c65cec9f9f4b4107f44c6ce1d3caedd</sys_scope><sys_update_name>sc_cat_item_catalog_17894e89f938b4107f44c6ce1d3cae89</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-15 18:53:53</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-893058523</payload_hash>
+        <record_name>Service Catalog.Test CI/CD Process </record_name>
+        <reverted_from/>
+        <source>22284e49f938b4107f44c6ce1d3cae26</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-15 18:53:54</sys_created_on>
+        <sys_id>1f894e89f938b4107f44c6ce1d3cae8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a1105d9d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 18:53:54</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>93894e897938b41029067c0bf27a318b</update_guid>
+        <update_guid_history>93894e897938b41029067c0bf27a318b:-893058523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Test CI/CD Process ">90aa0ec9f938b4107f44c6ce1d3cae43</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-06-15 18:58:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>477f25bca3e442659b9a8f7dec06ed21</sys_id>
+        <sys_metadata>17894e89f938b4107f44c6ce1d3cae89</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test CI/CD Process </sys_name>
+        <sys_package display_value="Test GitHub" source="x_snc_test_github">0c65cec9f9f4b4107f44c6ce1d3caedd</sys_package>
+        <sys_parent display_value="Test CI/CD Process ">05290a89f938b4107f44c6ce1d3caedd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test GitHub">0c65cec9f9f4b4107f44c6ce1d3caedd</sys_scope>
+        <sys_scope_delete display_value="">031223e957b74c6982d5bc14a90d74e9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_17894e89f938b4107f44c6ce1d3cae89</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_17894e89f938b4107f44c6ce1d3cae89">1f894e89f938b4107f44c6ce1d3cae8b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-06-15 18:58:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
